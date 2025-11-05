@@ -1,4 +1,4 @@
-- 👋 Hellossu, I’m @Harold-Fey
+- 👋 Hello, I’m @Harold-Fey
 - 👀 I’m interested in games, AI and robotics
 - 🌱 I’m currently learning web developpement
 - 💞️ I’m looking to collaborate on web and games projects
